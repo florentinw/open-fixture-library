@@ -27,29 +27,6 @@
       "degreesMinMax": [45, 45]
     }
   },
-  "wheels": {
-    "Hue": {
-      "slots": [
-        {
-          "type": "Color"
-        }
-      ]
-    },
-    "Color Presets": {
-      "slots": [
-        {
-          "type": "Color",
-          "name": "RGBW"
-        },
-        {
-          "type": "Color"
-        },
-        {
-          "type": "Color"
-        }
-      ]
-    }
-  },
   "availableChannels": {
     "Red": {
       "defaultValue": "0%",
